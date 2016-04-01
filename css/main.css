@@ -87,6 +87,11 @@ div {
 
   background-color: orange;
   border-radius: 50%;
+  transition: all .5s linear;
+}
+
+.bounce {
+  
 }
 
 .list {

@@ -9,3 +9,11 @@ $('.btn-move').on('click', function () {
 $('.btn-collapse-expand').on('click', function () {
   $('.panel').toggleClass('collapse');
 });
+
+$('.btn-collapse-expand').on('click', function () {
+  $('.panel').toggleClass('collapse');
+});
+
+$('.btn-collapse-expand').on('click', function () {
+  $('.panel').addClass('bounce');
+});
